@@ -4,3 +4,4 @@ git has a mutable index called stage.
 git tracked the changes of files.
 git get a new line.
 git have two.
+git add a new branch.
